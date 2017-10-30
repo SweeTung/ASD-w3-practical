@@ -16,8 +16,8 @@ public class Week3Practical {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.printIn("First message.");
-        System.out.printIn("First-branch");
+        System.out.println("First message.");
+        System.out.println("First-branch");
         
     }
     
